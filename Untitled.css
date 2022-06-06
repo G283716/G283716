@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font-family: Monospace;
+  line-height: 1em;
+  color: cyan;
+  text-align: center;
+  padding: 0px;
+}
+p {
+  color: cyan;
+}
